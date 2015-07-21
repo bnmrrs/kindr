@@ -4,7 +4,7 @@ gem 'rails', github: "rails/rails"
 gem 'sprockets-rails', github: "rails/sprockets-rails"
 gem 'arel', github: "rails/arel"
 
-gem 'sqlite3'
+gem 'pg'
 gem 'active_model_serializers', '~> 0.10.0.rc2'
 
 gem 'nokogiri'
